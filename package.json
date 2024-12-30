@@ -1,0 +1,22 @@
+{
+  "name": "30-dec-next-js",
+  "version": "1.0.0",
+  "main": "next.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.0",
+    "inquirer": "^12.3.0",
+    "ora": "^8.1.1",
+    "pokemon": "^3.2.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.3.0"
+  }
+}
